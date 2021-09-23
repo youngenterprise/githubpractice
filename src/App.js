@@ -10,6 +10,7 @@ function App() {
           Please begin daddy techno GOD! a new change. Some more.
         </p>
       </header>
+      <h1>I've added something new</h1>
     </div>
   );
 }
